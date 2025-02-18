@@ -4,7 +4,7 @@
 Đây là `repo` dùng để tham khảo các code giải bài tập.
 
 *Lưu ý: Code có thể chưa đẹp và tối ưu. Khuyến khích mọi người suy nghĩ cách giải trước khi xem.*
->Ban đầu, tôi không có dự định sẽ tạo một `repo` để upload code các bài mà mình đã giải trên [Trang Tiktok của mình](https://www.tiktok.com/@ryan_withit).
+>Ban đầu, mình không có dự định sẽ tạo một `repo` để upload code các bài mà mình đã giải trên [Trang Tiktok của mình](https://www.tiktok.com/@ryan_withit).
 >Tuy nhiên, do nhận thấy nhu cầu của một số bạn muốn xem source code của mình và cũng thuận tiện để tiếp tục vận hành kênh Tiktok nên mình quyết định sẽ create một `repo` để upload lời giải các bài tập.
 
 # Nội Dung
