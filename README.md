@@ -9,10 +9,10 @@ ___
 
 # Nội Dung
 Một số trang web mà mình có thể sẽ lấy bài tập trên đó để giải:
-- `CSES`
-- `Codeforces`
-- `TMATH`
-- `VNOI`
+- [CSES](https://cses.fi/)
+- [Codeforces](https://codeforces.com/)
+- [TMATH](https://c.tmathcoding.vn/)
+- [VNOI](https://oj.vnoi.info/)
   
 Đây đều là những trang web luyện giải thuật rất tốt và có đa dạng bài tập để tự luyện phù hợp với trình độ của các bạn. Hy vọng các bạn sẽ có thêm động lực để nâng cao trình độ giải thuật của bản thân.
 
