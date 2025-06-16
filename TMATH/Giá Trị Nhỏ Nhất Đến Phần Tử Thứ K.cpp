@@ -1,4 +1,8 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<map>
+#include<algorithm>
+
 using namespace std;
 const long long MAX=10000000000;
 long long arr[1000];

@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<map>
 using namespace std;
 long long arr[1000005];
 

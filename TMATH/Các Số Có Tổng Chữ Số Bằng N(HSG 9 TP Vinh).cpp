@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<map>
 using namespace std;
 void solve(int n){
     int cnt=0;

@@ -1,4 +1,6 @@
-include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<map>
 using namespace std;
 int cost_hour[100];
 int main(){
